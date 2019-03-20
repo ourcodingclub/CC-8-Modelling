@@ -2,6 +2,8 @@
 
 ### Intro tutorial to general and generalised linear models, available here https://ourcodingclub.github.io/2017/02/28/modelling.html
 
+Living Planet Index data used as part of the tutorial can be accessed here: http://www.livingplanetindex.org/home/index 
+
 We would love to hear your feedback on the tutorial, whether you did it at a Coding Club workshop or online: 
 https://www.surveymonkey.co.uk/r/NNRS98G
 
